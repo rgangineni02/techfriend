@@ -106,18 +106,3 @@ Made with ❤️ by @rgangineni02
 
 Let’s reshape how people learn tech – one feature at a time.
 
-yaml
-Copy
-Edit
-
----
-
-Would you like me to include badges (like GitHub stars, deploy buttons, etc.) or generate a banner image too?
-
-
-
-
-
-
-
-Ask ChatGPT
