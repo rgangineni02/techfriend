@@ -1,0 +1,23 @@
+[
+  {
+    "id": "data-structures",
+    "title": "Data Structures",
+    "description": "Arrays, stacks, queues, trees, graphs, and more.",
+    "icon": "📚",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "algorithms",
+    "title": "Algorithms",
+    "description": "Sorting, searching, dynamic programming, and greedy techniques.",
+    "icon": "🧠",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "operating-systems",
+    "title": "Operating Systems",
+    "description": "Processes, memory, scheduling, and synchronization.",
+    "icon": "💻",
+    "difficulty": "Advanced"
+  }
+]
